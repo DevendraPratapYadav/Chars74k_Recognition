@@ -1,8 +1,6 @@
 """
 
-Devendra Pratap Yadav - 2014CSB1010
-Mayank Kumar - 2014CSB1022
-CSL461 - Digital Image Analysis - Project
+Devendra Pratap Yadav 
 
 Neural Network using Scikit-learn
 """
