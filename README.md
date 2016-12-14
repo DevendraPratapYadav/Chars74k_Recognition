@@ -1,6 +1,9 @@
 # Chars74k_Recognition
 
-Character Recognition of Chars74k dataset - Handwritten and Images
+##Character Recognition of Chars74k dataset - Handwritten and Images
+
+###*using Histogram of Oriented Gradients and Neural Networks*
+
 ##Please visit [HERE](https://devendrapratapyadav.github.io/Chars74k_Recognition) for analysis and results.
 
 The code is divided into two parts-
