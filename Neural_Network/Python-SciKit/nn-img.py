@@ -1,8 +1,6 @@
 """
 
-Devendra Pratap Yadav - 2014CSB1010
-Mayank Kumar - 2014CSB1022
-CSL461 - Digital Image Analysis - Project
+Devendra Pratap Yadav 
 
 Neural Network using Scikit-learn
 """
@@ -134,15 +132,15 @@ nn = Classifier(
     layers=[
         Layer("Rectifier", units=800),
 		Layer("Rectifier", units=400),
-		Layer("Rectifier", units=200),
+		#Layer("Rectifier", units=200),
         Layer("Softmax")],
-    learning_rate=0.03,
-	dropout_rate=0.3,
+    learning_rate=0.015,
+	dropout_rate=0.35,
 	valid_size=0.15,
 	learning_momentum=0.4,
-	batch_size=40,
+	batch_size=20,
 	#learning_rule='adam',
-    n_iter=50,
+    n_iter=100,
 	verbose=True)
 
 
