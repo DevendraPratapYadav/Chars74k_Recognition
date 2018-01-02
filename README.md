@@ -1,6 +1,6 @@
 # Chars74k_Recognition
 
-## Character Recognition of Chars74k dataset - Handwritten and Images
+### Character Recognition of Chars74k dataset - Handwritten and Images
 
 ### *using Histogram of Oriented Gradients and Neural Networks*
 
